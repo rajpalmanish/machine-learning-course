@@ -1,0 +1,121 @@
+customer_id,month,data_used_GB,peak_usage_hour,avg_download_speed_Mbps,usage_type,overage_charges_OMR
+C0001,May,56.5,20,22.0,social media,1.65
+C0002,May,44.7,18,31.2,social media,0.47
+C0003,May,58.0,20,15.1,browsing,1.8
+C0004,May,44.3,20,19.2,browsing,0.43
+C0005,May,28.5,22,22.1,social media,0.0
+C0006,May,32.2,20,27.3,streaming,0.0
+C0007,May,41.4,23,20.6,gaming,0.14
+C0008,May,36.7,19,21.7,gaming,0.0
+C0009,May,52.4,21,19.0,streaming,1.24
+C0010,May,34.7,21,15.7,social media,0.0
+C0011,May,1.0,18,23.3,gaming,0.0
+C0012,May,43.0,17,16.3,gaming,0.3
+C0013,May,64.0,23,12.7,social media,2.4
+C0014,May,30.7,22,19.1,streaming,0.0
+C0015,May,53.0,21,27.3,streaming,1.3
+C0016,May,32.3,18,21.9,social media,0.0
+C0017,May,16.7,17,10.1,social media,0.0
+C0018,May,24.8,22,20.8,social media,0.0
+C0019,May,48.5,20,26.0,streaming,0.85
+C0020,May,24.2,22,18.5,social media,0.0
+C0021,May,14.3,21,12.9,social media,0.0
+C0022,May,4.4,18,29.8,browsing,0.0
+C0023,May,22.4,19,17.8,social media,0.0
+C0024,May,11.2,20,23.9,browsing,0.0
+C0025,May,5.8,21,18.9,gaming,0.0
+C0026,May,16.6,23,21.9,streaming,0.0
+C0027,May,22.3,19,14.1,gaming,0.0
+C0028,May,29.6,18,22.1,gaming,0.0
+C0029,May,31.0,23,21.5,social media,0.0
+C0030,May,20.5,22,18.2,streaming,0.0
+C0031,May,19.9,18,18.2,gaming,0.0
+C0032,May,17.8,18,11.4,gaming,0.0
+C0033,May,32.7,19,18.0,social media,0.0
+C0034,May,5.5,22,22.3,streaming,0.0
+C0035,May,16.4,19,20.3,social media,0.0
+C0036,May,40.9,17,20.6,social media,0.09
+C0037,May,47.1,19,13.8,social media,0.71
+C0038,May,36.0,22,16.6,browsing,0.0
+C0039,May,16.9,19,17.1,browsing,0.0
+C0040,May,25.3,18,20.3,streaming,0.0
+C0041,May,12.5,21,24.5,gaming,0.0
+C0042,May,37.0,18,12.3,streaming,0.0
+C0043,May,52.3,20,29.5,social media,1.23
+C0044,May,47.7,20,19.1,streaming,0.77
+C0045,May,13.9,22,25.3,streaming,0.0
+C0046,May,24.0,23,26.1,social media,0.0
+C0047,May,33.1,21,24.9,browsing,0.0
+C0048,May,35.3,18,23.5,browsing,0.0
+C0049,May,30.2,18,28.9,browsing,0.0
+C0050,May,31.9,18,22.0,streaming,0.0
+C0051,May,58.2,21,13.3,browsing,1.82
+C0052,May,10.9,23,24.8,social media,0.0
+C0053,May,12.4,19,29.7,gaming,0.0
+C0054,May,23.8,22,16.3,gaming,0.0
+C0055,May,58.8,22,27.4,streaming,1.88
+C0056,May,58.0,23,24.5,social media,1.8
+C0057,May,17.1,23,29.6,gaming,0.0
+C0058,May,26.0,18,24.0,gaming,0.0
+C0059,May,44.2,22,19.2,gaming,0.42
+C0060,May,39.2,21,24.6,browsing,0.0
+C0061,May,35.6,20,14.5,gaming,0.0
+C0062,May,34.5,18,26.6,social media,0.0
+C0063,May,19.6,19,19.3,social media,0.0
+C0064,May,23.5,20,29.2,gaming,0.0
+C0065,May,40.1,20,22.0,social media,0.01
+C0066,May,18.5,23,22.7,streaming,0.0
+C0067,May,19.9,22,20.2,browsing,0.0
+C0068,May,20.5,18,23.4,streaming,0.0
+C0069,May,38.6,21,19.0,streaming,0.0
+C0070,May,35.9,22,14.5,browsing,0.0
+C0071,May,7.6,21,22.2,streaming,0.0
+C0072,May,32.5,19,23.2,browsing,0.0
+C0073,May,65.7,20,24.7,streaming,2.57
+C0074,May,16.3,23,25.6,streaming,0.0
+C0075,May,10.3,17,17.7,streaming,0.0
+C0076,May,29.0,19,28.6,social media,0.0
+C0077,May,18.8,19,15.9,streaming,0.0
+C0078,May,28.5,22,16.7,social media,0.0
+C0079,May,46.9,19,14.6,gaming,0.69
+C0080,May,12.8,22,17.8,social media,0.0
+C0081,May,22.5,23,29.6,browsing,0.0
+C0082,May,44.2,18,20.4,streaming,0.42
+C0083,May,11.6,23,24.2,browsing,0.0
+C0084,May,15.0,17,12.3,browsing,0.0
+C0085,May,47.8,21,21.6,social media,0.78
+C0086,May,43.8,21,21.6,browsing,0.38
+C0087,May,42.9,20,16.7,social media,0.29
+C0088,May,14.5,19,23.4,streaming,0.0
+C0089,May,17.9,21,16.6,browsing,0.0
+C0090,May,23.2,20,20.1,browsing,0.0
+C0091,May,24.7,20,13.1,streaming,0.0
+C0092,May,20.3,20,8.9,streaming,0.0
+C0093,May,39.4,22,12.0,social media,0.0
+C0094,May,13.4,19,20.3,browsing,0.0
+C0095,May,18.9,21,27.7,social media,0.0
+C0096,May,10.6,17,21.3,social media,0.0
+C0097,May,29.4,21,14.2,streaming,0.0
+C0098,May,37.8,19,19.1,social media,0.0
+C0099,May,41.6,21,24.1,social media,0.16
+C0100,May,62.4,20,26.7,gaming,2.24
+C0101,May,24.5,18,18.8,browsing,0.0
+C0102,May,46.5,21,23.3,gaming,0.65
+C0103,May,39.6,18,11.9,gaming,0.0
+C0104,May,29.6,23,16.3,browsing,0.0
+C0105,May,34.2,20,19.5,streaming,0.0
+C0106,May,43.7,17,21.6,social media,0.37
+C0107,May,41.8,20,17.7,social media,0.18
+C0108,May,15.8,21,17.9,streaming,0.0
+C0109,May,29.7,19,21.9,social media,0.0
+C0110,May,63.9,18,19.8,streaming,2.39
+C0111,May,15.7,19,18.3,browsing,0.0
+C0112,May,23.0,19,22.4,streaming,0.0
+C0113,May,6.9,18,20.3,streaming,0.0
+C0114,May,32.3,23,21.2,browsing,0.0
+C0115,May,21.0,21,18.8,browsing,0.0
+C0116,May,8.6,17,17.5,streaming,0.0
+C0117,May,21.9,23,22.1,social media,0.0
+C0118,May,12.7,21,23.9,social media,0.0
+C0119,May,52.4,22,9.7,streaming,1.24
+C0120,May,36.4,20,23.4,gaming,0.0
